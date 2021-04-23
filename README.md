@@ -1,2 +1,3 @@
 # Colour-Detection-MATLAB
-Detects the colour red from a real-time video
+Detects the colour red from a real-time video using MATLAB.
+
